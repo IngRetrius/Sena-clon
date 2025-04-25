@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="89" viewBox="0 0 89 89">
+  <g id="Grupo_1119890" data-name="Grupo 1119890" transform="translate(-1175.711 -6722)">
+    <circle id="Elipse_11510" data-name="Elipse 11510" cx="44.5" cy="44.5" r="44.5" transform="translate(1175.711 6722)" fill="#fff"/>
+    <g id="Grupo_1101119" data-name="Grupo 1101119" transform="translate(772.574 694.531)">
+      <rect id="Rectángulo_401104" data-name="Rectángulo 401104" width="59" height="59" transform="translate(418.137 6042.469)" fill="none"/>
+      <g id="Page-1" transform="translate(419.137 6042.471)">
+        <g id="_012---Scales" data-name="012---Scales" transform="translate(0 -1)">
+          <path id="Shape" d="M24.86,9.67l3.21-8.04a1,1,0,0,1,1.86,0l3.22,8.04Z" fill="#e64c3c"/>
+          <path id="Shape-2" data-name="Shape" d="M12,11.7V6.074a1,1,0,0,0-2,0V11.7L1.062,25.1a1,1,0,0,0,1.665,1.109L11,13.8l8.057,12.085a1,1,0,1,0,1.664-1.109Z" fill="#95a5a5"/>
+          <path id="Rectangle-path" d="M46,22.524h2v9.4H46Z" fill="#95a5a5"/>
+          <circle id="Oval" cx="11" cy="11" r="11" transform="translate(36 30)" fill="#f0c419"/>
+          <path id="Shape-3" data-name="Shape" d="M56.05,34.75A11,11,0,0,0,41.45,50.5a11,11,0,1,1,14.6-15.75Z" fill="#f3d55b"/>
+          <path id="Shape-4" data-name="Shape" d="M34.97,14.54l18.86,8.64A2,2,0,0,1,53,27a2.036,2.036,0,0,1-.83-.18L33.3,18.17Z" fill="#2980ba"/>
+          <path id="Shape-5" data-name="Shape" d="M48,40.081V36.127c1.15.283,2,1.022,2,1.873a1,1,0,0,0,2,0c0-1.932-1.721-3.547-4-3.919V33a1,1,0,1,0-2,0v1.081c-2.279.372-4,1.987-4,3.919s1.721,3.547,4,3.919v3.954c-1.15-.283-2-1.022-2-1.873a1,1,0,0,0-2,0c0,1.932,1.721,3.547,4,3.919V49a1,1,0,0,0,2,0V47.919c2.279-.372,4-1.987,4-3.919S50.279,40.453,48,40.081ZM44,38c0-.851.85-1.59,2-1.873v3.746c-1.15-.283-2-1.022-2-1.873Zm4,7.873V42.127c1.15.283,2,1.022,2,1.873s-.85,1.59-2,1.873Z" fill="#b19046"/>
+          <path id="Shape-6" data-name="Shape" d="M22,25v1a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V25a1,1,0,0,1,1-1H21A1,1,0,0,1,22,25Z" fill="#bdc3c7"/>
+          <path id="Shape-7" data-name="Shape" d="M23.03,13.46,4.17,4.82A2,2,0,0,1,5.83,1.18L24.7,9.83Z" fill="#2980ba"/>
+          <path id="Shape-8" data-name="Shape" d="M32,17.667V48.523H26V17.667a5.46,5.46,0,0,0,6,0Z" fill="#95a5a5"/>
+          <path id="Shape-9" data-name="Shape" d="M43,57a2.015,2.015,0,0,1-2,2H17a2.006,2.006,0,0,1-2-2,3.995,3.995,0,0,1,4-4H39A4,4,0,0,1,43,57Z" fill="#3b97d3"/>
+          <path id="Shape-10" data-name="Shape" d="M35,53H23l.72-4.33A2.006,2.006,0,0,1,25.69,47h6.62a2.006,2.006,0,0,1,1.97,1.67Z" fill="#bdc3c7"/>
+          <path id="Shape-11" data-name="Shape" d="M35,14a4.754,4.754,0,0,1-.03.54,5.853,5.853,0,0,1-1.67,3.63A5.58,5.58,0,0,1,32,19.19,6,6,0,0,1,23,14a4.754,4.754,0,0,1,.03-.54A5.853,5.853,0,0,1,24.7,9.83a1.209,1.209,0,0,1,.16-.16,5.979,5.979,0,0,1,8.29,0v.01A5.938,5.938,0,0,1,35,14Z" fill="#3b97d3"/>
+          <circle id="Oval-2" data-name="Oval" cx="2" cy="2" r="2" transform="translate(27 12)" fill="#bdc3c7"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
